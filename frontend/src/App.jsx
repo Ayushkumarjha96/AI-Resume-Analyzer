@@ -26,7 +26,7 @@ function App() {
     try {
 
       const res = await axios.post(
-        "https://render.com/docs/node-version",
+        "https://ai-resume-analyzer-nnnp.onrender.com/upload",
         formData
       );
 
